@@ -6,7 +6,6 @@
   <name>GitHub API for Java</name>
   <url>https://github-api.kohsuke.org/</url>
   <description>GitHub API for Java</description>
-
   <scm>
     <connection>scm:git:git@github.com/github-api/${project.artifactId}.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/github-api/${project.artifactId}.git</developerConnection>
