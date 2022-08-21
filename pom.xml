@@ -448,7 +448,7 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.kohsuke.stapler</groupId>
+      <groupId>orgafadf.ohsuke.stapler</groupId>
       <artifactId>stapler-jetty</artifactId>
       <version>1.1</version>
       <scope>test</scope>
